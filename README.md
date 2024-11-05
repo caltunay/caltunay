@@ -11,7 +11,7 @@
 - Hypothesis-driven analysis and building data-driven solutions
 
 🚀 Current Focus
-- Freelancing opportunities to help organizations make data-driven decisions
+- Opportunities to help organizations make data-driven decisions
 - Check out my [portfolio](https://github.com/caltunay/data-portfolio) for examples of my work
 
 🏆 Achievements 
