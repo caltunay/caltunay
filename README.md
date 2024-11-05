@@ -2,9 +2,10 @@
 
 👋 Hi, I'm Cenan.
 
+
 💼 Experienced Data Scientist/Analyst & Founder of Datafolx
 - Decade of experienced with globally leading organisations like Atlassian, Toyota, and others
-- Specialise in analytics, machine learning, data visualization/story-telling, and stakeholder engagement
+- Specialise in analytics, experimentation, machine learning, and data visualization/story-telling
 
 🔍 Skills & Interests
 - SQL, Python, dbt, Tableau, Power BI, Alteryx, GCP, AWS, Google Analytics+Tag Manager 
