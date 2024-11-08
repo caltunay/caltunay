@@ -21,4 +21,4 @@
 
 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/cenan-altunay/)
-- Find me on [Upwork](https://www.upwork.com/freelancers/~01a66c9d4030e42e37) or message me here on GitHub
+- Find me on [Upwork](https://www.upwork.com/freelancers/~01a66c9d4030e42e37) 
